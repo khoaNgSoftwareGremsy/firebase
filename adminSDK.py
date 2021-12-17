@@ -61,8 +61,8 @@ for k in range(0, numOfEle):
         u'prodGroup': dict['Nhóm hàng'],
         u'prodSeri': dict['Mã hàng'],
         u'prodBar': dict['Mã vạch'],
-        u'prodInve': dict['Tồn kho'],
-        u'prodBrand': dict['Thương hiệu'],
+        u'prodInve': dict['storage'],
+        u'prodBrand': dict['Brand'],
         u'proImg': dict['Hình ảnh (url1,url2...)'],
     }
     tempID = dict['Mã hàng']
