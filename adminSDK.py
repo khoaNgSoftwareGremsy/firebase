@@ -27,7 +27,7 @@ numOfEle = sizeOfData[0]
 
 dict = {}
 for i in range(0, 10):
-    print("Hello World")
+    print("Hello Khoa")
 
 
 def switch_type(variable):
